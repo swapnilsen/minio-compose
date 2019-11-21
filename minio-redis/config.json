@@ -1,5 +1,4 @@
 {
-	"version": "19",
 	"credential": {
 		"accessKey": "minio",
 		"secretKey": "minio123"
